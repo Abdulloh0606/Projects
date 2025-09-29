@@ -1,0 +1,5 @@
+body { background-image: url('gojo.jpg'); background-size: cover; background-position: center; background-repeat: no-repeat; font-family: 'Segoe UI', 'Arial', sans-serif; color: #222; text-shadow: 1px 1px 2px #fff, 0 0 1px #333; letter-spacing: 0.5px; }
+
+h1, h2 { font-weight: 700; color: #00695c; text-shadow: 2px 2px 6px #fff, 0 0 2px #00695c; }
+
+a { color: #00897b; text-decoration: none; transition: color 0.2s; } a:hover { color: #004d40; text-decoration: underline; }
